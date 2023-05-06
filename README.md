@@ -1,2 +1,2 @@
-# HTML-CSS-Tutorial
+# HTML-CSS-Practice
 HTML / CSS 연습
